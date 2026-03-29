@@ -1,4 +1,4 @@
-# dai-project-showcase
+# dai-project-showcase [UNDER CONSTRUCTION]
 This project was completed during my internship for a client. The codebase is private; the README highlights my contributions, technologies used, and project features.
 
 # Project Overview
@@ -42,6 +42,9 @@ While the code is private due to client confidentiality, I can provide:
 Screenshots or live demo (with client permission)
 Detailed explanation of the architecture and workflows
 References from my internship supervisor upon request
+
+# Related Project
+--> dai-demo
 
 # Contact
 
