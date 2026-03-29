@@ -12,13 +12,15 @@ Developed backend modules and APIs using Python and Django.
 Implemented responsive front-end interfaces with JavaScript / React.
 Automated workflows and data handling processes, improving operational efficiency.
 Collaborated with team members to deliver features on time and ensure high code quality.
-🛠 Tech Stack
+
+# Tech Stack
 Backend: Python, Django, Django REST Framework
 Frontend: React, JavaScript, HTML5, CSS3
 Database: PostgreSQL / MariaDB
 Tools & DevOps: Git, GitHub, Docker, CI/CD pipelines
 Testing: Unit tests with PyTest / Jest
-⚡ Key Features
+
+# Key Features
 User authentication and role-based access control
 Data visualization dashboards for monitoring metrics
 Workflow automation for repetitive tasks
@@ -33,7 +35,7 @@ Delivered fully functional modules that reduced manual effort by X% (replace wit
 Learned best practices in OOP, modular programming, and RESTful API design.
 Gained experience in collaborative development in a real client environment.
 
-🔗 Demo & Portfolio
+# Demo & Portfolio
 
 While the code is private due to client confidentiality, I can provide:
 
